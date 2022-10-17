@@ -20,7 +20,8 @@ This is a web based application based on health related info  website developed 
 
 ## Screenshots!
 
-[home](https://user-images.githubusercontent.com/115448972/196263723-06834192-d305-43d6-92d7-6762fd22b6d3.jpg)
+![home](https://user-images.githubusercontent.com/115448972/196264376-4c4740e1-56cc-4fe2-825a-a0c584e4f8df.jpg)
+
  
 
 ### About Us -
